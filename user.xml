@@ -3,11 +3,8 @@
 <suite name="Default Suite">
   <test name="SeleniumDemo1910">
     <classes>
-      <class name="com.soft.GirdTest.GridTest01">
-        <methods>
-          <include name="testliuqi"/>
-        </methods>
-      </class> <!-- com.soft.GirdTest.GridTest01 -->
+      <class name="com.soft.day01.ceshi">
+      </class> <!-- com.soft.day01.ceshi -->
     </classes>
   </test> <!-- SeleniumDemo1910 -->
 </suite> <!-- Default Suite -->
